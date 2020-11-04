@@ -1,3 +1,4 @@
+#used with classify.json for sorting web URLs to classify them as malicious
 #!/usr/bin/python2
 import json, sys, getopt, os
 def usage():
