@@ -1,3 +1,4 @@
+#reads a .csv file to count packet types
 import csv
 
 pktLENGTH=0
