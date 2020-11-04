@@ -1,3 +1,4 @@
+#searches through currently running processes in /proc on a unix system to do some operations with them
 #include <stdio.h>
 #include <stdlib.h>
 #include <dirent.h>
